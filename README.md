@@ -27,7 +27,7 @@
 ☁️ Cloud       :: AWS
 🛢 Database    :: MySQL • PostgreSQL
 🚀 Mission     :: Build Intelligent Applications
-
+````
 ---
 
 # ⚡ Tech Stack
