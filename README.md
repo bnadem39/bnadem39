@@ -15,51 +15,18 @@
 </div>
 
 ---
+## 👨‍💻 SYSTEM INFORMATION
 
-# 🚀 About Me
-
-```java
-public class Adem {
-
-    String role = "Full Stack Developer";
-
-    String[] languages = {
-        "Java",
-        "Python",
-        "JavaScript",
-        "TypeScript"
-    };
-
-    String[] backend = {
-        "Spring Boot",
-        "Node.js",
-        "NestJS"
-    };
-
-    String[] frontend = {
-        "React",
-        "Next.js"
-    };
-
-    String[] databases = {
-        "MySQL",
-        "PostgreSQL"
-    };
-
-    String[] ai = {
-        "Machine Learning",
-        "OCR",
-        "NLP",
-        "Computer Vision"
-    };
-
-    String[] cloud = {
-        "AWS",
-        "Docker"
-    };
-
-}
-```
+```text
+👤 Name        :: Adem
+💼 Role        :: Full Stack Developer
+🧠 Focus       :: Artificial Intelligence
+⚙️ Backend     :: Spring Boot • NestJS
+🎨 Frontend    :: React • Next.js
+🐍 AI Stack    :: Python • OCR • NLP
+☁️ Cloud       :: AWS
+🛢 Database    :: MySQL • PostgreSQL
+🚀 Mission     :: Build Intelligent Applications
 
 ---
 
