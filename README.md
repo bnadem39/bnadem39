@@ -51,16 +51,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bnadem39&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
-
----
-
 
 # 📫 Connect With Me
 
@@ -115,11 +105,7 @@
 
 ---
 
-# 📈 Coding Activity
 
-> "The expert in anything was once a beginner."
-
----
 
 <div align="center">
 
